@@ -20,7 +20,8 @@ AI created the following:
 
     Revenue Model: Monthly recurring revenue (MRR) from subscriptions, plus one-time professional services/onboarding fees.
 
-    Financial Profile: High gross margins (typical for SaaS), heavy initial investments in server infrastructure (CapEx), and significant payroll expenses for engineering and sales.
+    Financial Profile: High gross margins (typical for SaaS), heavy initial investments in server infrastructure (CapEx), 
+    and significant payroll expenses for engineering and sales.
 
 ## 📊 2. Executive Dashboards & Visualizations
 These tabs serve as the front-end reporting layer, transforming complex data into actionable business insights for stakeholders.
